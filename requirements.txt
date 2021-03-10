@@ -1,0 +1,8 @@
+matrx==2.0.2
+openpyxl
+Pillow
+pyautogui
+flask
+pandas
+numpy
+sklearn

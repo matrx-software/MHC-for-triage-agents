@@ -1,0 +1,10 @@
+# Ignore pycharm project folder
+.idea/
+
+# Ignore build related folders and files
+.pypirc
+*.pyc
+__pycache__/
+
+Results/*
+mhc/images/Screenshots/*

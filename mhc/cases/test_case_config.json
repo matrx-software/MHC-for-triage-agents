@@ -1,0 +1,38 @@
+{
+  "hospital": {
+    "entrance": [2,0],
+    "entrance2":[3,0],
+    "exit": [23,25],
+    "exit2": [23,26]
+  },
+
+  "patients": {
+    "move_speed": 2,
+    "patient_planning": [
+      {"second": 0, "seconds_per_patient": 1},
+      {"second": 35, "seconds_per_patient": 10},
+      {"second": 55, "seconds_per_patient": 5},
+      {"second": 115, "seconds_per_patient": 15},
+      {"second": 180, "seconds_per_patient": 10},
+      {"second": 240, "seconds_per_patient": 5}
+    ],
+    "max_patients": 6,
+    "patients_file": "mhc/cases/data/experiment_1_dss_patients.csv",
+    "deceased_fade_after_ticks": 40,
+    "update_sickness_every_x_seconds": 0.5
+  },
+
+  "human_doctor": {
+    "location": [0, 0]
+  },
+
+  "sickness_model": {
+
+  },
+
+  "random_seed": 1,
+  "world": {
+    "tick_duration": 0.1,
+    "trial_end_message": "Het experiment is voltooid. Klik <a href='/questionnaire'>>hier<</a> om naar de vragenlijst door te gaan."
+  }
+}

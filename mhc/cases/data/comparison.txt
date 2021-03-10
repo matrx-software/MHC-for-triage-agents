@@ -1,0 +1,89 @@
+########################################
+Dataset  Baseline
+########################################
+
+Age:
+count    16.000000
+mean     53.500000
+std      26.660833
+min      16.000000
+25%      30.500000
+50%      48.000000
+75%      82.250000
+max      91.000000
+Name: age, dtype: float64
+
+Home situation:
+Gescheiden                   4
+Alleenwonend                 4
+Getrouwd met 2 kind(eren)    3
+Weduwe                       2
+Getrouwd                     1
+Getrouwd met 4 kind(eren)    1
+Getrouwd met 3 kind(eren)    1
+Name: home_situation, dtype: int64
+
+Fitness
+Laag         4
+Hoog         4
+Zeer hoog    4
+Zeer laag    2
+Gemiddeld    2
+Name: fitness, dtype: int64
+
+Symptoms
+Zeer hoog    8
+Hoog         5
+Gemiddeld    3
+Name: symptoms, dtype: int64
+
+Gender
+Vrouw    8
+Man      8
+Name: gender, dtype: int64
+
+########################################
+Dataset  Decision Support
+########################################
+
+Age:
+count    16.0000
+mean     52.0625
+std      21.2743
+min      20.0000
+25%      33.7500
+50%      50.0000
+75%      64.2500
+max      88.0000
+Name: age, dtype: float64
+
+Home situation:
+Weduwe                       3
+Getrouwd met 3 kind(eren)    3
+Gescheiden                   2
+Getrouwd met 1 kind(eren)    2
+Alleenwonend                 2
+Getrouwd                     2
+Thuiswonend kind             1
+Getrouwd met 4 kind(eren)    1
+Name: home_situation, dtype: int64
+
+Fitness
+Laag         5
+Zeer hoog    4
+Gemiddeld    3
+Hoog         3
+Zeer laag    1
+Name: fitness, dtype: int64
+
+Symptoms
+Hoog         11
+Gemiddeld     2
+Zeer hoog     2
+Mild          1
+Name: symptoms, dtype: int64
+
+Gender
+Vrouw    8
+Man      8
+Name: gender, dtype: int64
