@@ -27,6 +27,6 @@ See the paper for a more in-depth overview of the experiment.
 - Press the play button at the top, and the experiment will start. 
 
 ## Documentation
-The experiment is build using [MATRX](https://github.com/matrx-software/matrx), an open-source for simulating human-agent teaming tasks, developed by the [Human-Agent-Robot Teaming (HART)](https://tno-hart.com/) Team at [TNO](https://tno.nl).  For more info, see the [MATRX website](https://github.com/matrx-software/matrx). 
+The experiment is build using [MATRX](https://github.com/matrx-software/matrx), an open-source framework for simulating human-agent teaming tasks, developed by the [Human-Agent-Robot Teaming (HART)](https://tno-hart.com/) Team at [TNO](https://tno.nl).  For more info, see the [MATRX website](https://github.com/matrx-software/matrx). 
 
 For a more in depth description of the agent triage algorithm, used for TDP 2 (dynamic allocation) and TDP 3 (supervised autonomy), see the (Dutch) document `Value elicitation agent algorithm NL.pdf`. 
