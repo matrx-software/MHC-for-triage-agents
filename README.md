@@ -20,7 +20,9 @@ See the paper for a more in-depth overview of the experiment.
   - `python3 main_tutorial.py`
 - For the experiment: 
   - `python3 main_exp3.py`
+  - Choose the TDP / collaboration form you want to work in. 
 - Go to `127.0.0.1:3000`
+- ctrl + f5 to clear your cache
 - From the dropdown, choose the human doctor
 - Press the play button at the top, and the experiment will start. 
 
